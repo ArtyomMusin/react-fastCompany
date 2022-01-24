@@ -1,5 +1,7 @@
-const Posts = () => {
-    return <h1>Posts</h1>
+import React from 'react'
+
+const Login = () => {
+    return <h1>Login</h1>
 }
- 
-export default Posts
+
+export default Login
